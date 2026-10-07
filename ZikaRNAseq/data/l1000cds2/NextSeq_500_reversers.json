@@ -1,0 +1,107 @@
+{
+ "signature": "NextSeq 500",
+ "type": "reversers",
+ "url": "https://maayanlab.cloud/L1000CDS2/#/result/6ac68194ff05f50052ad9880",
+ "top": [
+  {
+   "pert_desc": "CGP-60474",
+   "cell_id": "HME1",
+   "pert_dose": 0.12,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2746,
+   "pubchem_id": "644215",
+   "pert_id": "BRD-K79090631"
+  },
+  {
+   "pert_desc": "AT-7519",
+   "cell_id": "HME1",
+   "pert_dose": 1.11,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2723,
+   "pubchem_id": "11338033",
+   "pert_id": "BRD-K13390322"
+  },
+  {
+   "pert_desc": "AT-7519",
+   "cell_id": "MDAMB231",
+   "pert_dose": 1.11,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2707,
+   "pubchem_id": "11338033",
+   "pert_id": "BRD-K13390322"
+  },
+  {
+   "pert_desc": "AT-7519",
+   "cell_id": "MCF10A",
+   "pert_dose": 10,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2702,
+   "pubchem_id": "11338033",
+   "pert_id": "BRD-K13390322"
+  },
+  {
+   "pert_desc": "BMS-387032",
+   "cell_id": "SKBR3",
+   "pert_dose": 10,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2701,
+   "pubchem_id": "3025986",
+   "pert_id": "BRD-K43389698"
+  },
+  {
+   "pert_desc": "BMS-387032",
+   "cell_id": "HME1",
+   "pert_dose": 3.33,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2691,
+   "pubchem_id": "3025986",
+   "pert_id": "BRD-K43389698"
+  },
+  {
+   "pert_desc": "BMS-387032",
+   "cell_id": "SKBR3",
+   "pert_dose": 0.37,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2688,
+   "pubchem_id": "3025986",
+   "pert_id": "BRD-K43389698"
+  },
+  {
+   "pert_desc": "BMS-387032",
+   "cell_id": "HME1",
+   "pert_dose": 10,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2619,
+   "pubchem_id": "3025986",
+   "pert_id": "BRD-K43389698"
+  },
+  {
+   "pert_desc": "AT-7519",
+   "cell_id": "MDAMB231",
+   "pert_dose": 3.33,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2614,
+   "pubchem_id": "11338033",
+   "pert_id": "BRD-K13390322"
+  },
+  {
+   "pert_desc": "JNK-9L",
+   "cell_id": "MDAMB231",
+   "pert_dose": 0.37,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2609,
+   "pubchem_id": "59588070",
+   "pert_id": "BRD-K19220233"
+  }
+ ]
+}

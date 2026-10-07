@@ -1,0 +1,190 @@
+{
+ "library": "KEGG_2016",
+ "gene_list": "combined-dn",
+ "results": [
+  {
+   "rank": 1,
+   "term": "DNA replication Homo sapiens hsa03030",
+   "p_value": 1.9739154088578752e-12,
+   "zscore": 26.04787234042553,
+   "combined_score": 702.0162602846842,
+   "genes": [
+    "POLD3",
+    "RNASEH2C",
+    "POLA1",
+    "FEN1",
+    "RFC3",
+    "PCNA",
+    "RFC4",
+    "RPA1",
+    "RPA2",
+    "MCM4",
+    "MCM6",
+    "MCM2"
+   ],
+   "adj_p_value": 3.94783081771575e-10
+  },
+  {
+   "rank": 2,
+   "term": "Mismatch repair Homo sapiens hsa03430",
+   "p_value": 7.095891351167263e-09,
+   "zscore": 27.50456140350877,
+   "combined_score": 516.0887113763571,
+   "genes": [
+    "POLD3",
+    "MSH6",
+    "RFC3",
+    "PCNA",
+    "RFC4",
+    "EXO1",
+    "RPA1",
+    "RPA2"
+   ],
+   "adj_p_value": 7.095891351167264e-07
+  },
+  {
+   "rank": 3,
+   "term": "Cell cycle Homo sapiens hsa04110",
+   "p_value": 5.416526599032979e-06,
+   "zscore": 5.5566109422492405,
+   "combined_score": 67.37977432699621,
+   "genes": [
+    "CCNB2",
+    "CCNB1",
+    "TFDP1",
+    "PCNA",
+    "PTTG1",
+    "BUB1B",
+    "MCM4",
+    "CDC7",
+    "E2F3",
+    "MCM6",
+    "SMC1A",
+    "MCM2"
+   ],
+   "adj_p_value": 0.00036110177326886535
+  },
+  {
+   "rank": 4,
+   "term": "Fanconi anemia pathway Homo sapiens hsa03460",
+   "p_value": 7.001942563644022e-05,
+   "zscore": 7.814789455665868,
+   "combined_score": 74.76204203873758,
+   "genes": [
+    "FANCI",
+    "FANCD2",
+    "FANCL",
+    "RPA1",
+    "RPA2",
+    "FANCC",
+    "BRCA1"
+   ],
+   "adj_p_value": 0.003500971281822011
+  },
+  {
+   "rank": 5,
+   "term": "Nucleotide excision repair Homo sapiens hsa03420",
+   "p_value": 0.00028121166714780707,
+   "zscore": 7.497509896564934,
+   "combined_score": 61.30266172343279,
+   "genes": [
+    "POLD3",
+    "RFC3",
+    "PCNA",
+    "RFC4",
+    "RPA1",
+    "RPA2"
+   ],
+   "adj_p_value": 0.011248466685912282
+  },
+  {
+   "rank": 6,
+   "term": "Base excision repair Homo sapiens hsa03410",
+   "p_value": 0.0004062797097731744,
+   "zscore": 9.130921298023125,
+   "combined_score": 71.29851311435914,
+   "genes": [
+    "POLD3",
+    "FEN1",
+    "PCNA",
+    "PARP1",
+    "UNG"
+   ],
+   "adj_p_value": 0.013542656992439147
+  },
+  {
+   "rank": 7,
+   "term": "One carbon pool by folate Homo sapiens hsa00670",
+   "p_value": 0.0005282064350352412,
+   "zscore": 12.7578125,
+   "combined_score": 96.2707513417181,
+   "genes": [
+    "DHFR",
+    "MTHFD1",
+    "TYMS",
+    "GART"
+   ],
+   "adj_p_value": 0.013691810268509175
+  },
+  {
+   "rank": 8,
+   "term": "HTLV-I infection Homo sapiens hsa05166",
+   "p_value": 0.000547672410740367,
+   "zscore": 2.971333391776979,
+   "combined_score": 22.314218273829926,
+   "genes": [
+    "RANBP1",
+    "JUN",
+    "PCNA",
+    "FZD4",
+    "PIK3R3",
+    "WNT8B",
+    "BUB1B",
+    "FOS",
+    "POLD3",
+    "CCNB2",
+    "KAT5",
+    "PTTG1",
+    "E2F3",
+    "RAN"
+   ],
+   "adj_p_value": 0.013691810268509175
+  },
+  {
+   "rank": 9,
+   "term": "Pyrimidine metabolism Homo sapiens hsa00240",
+   "p_value": 0.0010129987986046806,
+   "zscore": 4.235485621269669,
+   "combined_score": 29.20299669617505,
+   "genes": [
+    "POLD3",
+    "POLA1",
+    "ENTPD1",
+    "RRM2",
+    "ENTPD4",
+    "TK2",
+    "CTPS1",
+    "TYMS"
+   ],
+   "adj_p_value": 0.022511084413437348
+  },
+  {
+   "rank": 10,
+   "term": "Spliceosome Homo sapiens hsa03040",
+   "p_value": 0.004672404470376533,
+   "zscore": 3.2558061821219715,
+   "combined_score": 17.470921204003503,
+   "genes": [
+    "HSPA8",
+    "HNRNPM",
+    "HNRNPA3",
+    "SNRPD1",
+    "HNRNPU",
+    "SNRPD3",
+    "SRSF5",
+    "RBMX"
+   ],
+   "adj_p_value": 0.09344808940753066
+  }
+ ]
+}

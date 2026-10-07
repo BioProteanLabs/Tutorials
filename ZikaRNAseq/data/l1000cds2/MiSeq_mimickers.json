@@ -1,0 +1,107 @@
+{
+ "signature": "MiSeq",
+ "type": "mimickers",
+ "url": "https://maayanlab.cloud/L1000CDS2/#/result/6ac68178ff05f50052ad987a",
+ "top": [
+  {
+   "pert_desc": "-666",
+   "cell_id": "MCF7",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5037,
+   "pubchem_id": "9957280",
+   "pert_id": "BRD-K78122587"
+  },
+  {
+   "pert_desc": "Puromycin dihydrochloride",
+   "cell_id": "PC3",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5131,
+   "pubchem_id": "23618032",
+   "pert_id": "BRD-K36007650"
+  },
+  {
+   "pert_desc": "ARP 101",
+   "cell_id": "MCF7",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5179,
+   "pubchem_id": "11292680",
+   "pert_id": "BRD-K73395020"
+  },
+  {
+   "pert_desc": "PERHEXILINE MALEATE",
+   "cell_id": "HT29",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5183,
+   "pubchem_id": "5284439",
+   "pert_id": "BRD-A19633847"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "HT29",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5221,
+   "pubchem_id": "2729027",
+   "pert_id": "BRD-A18763547"
+  },
+  {
+   "pert_desc": "Thiostrepton",
+   "cell_id": "MCF7",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5228,
+   "pubchem_id": "73707520",
+   "pert_id": "BRD-A52627843"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "MCF7",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5264,
+   "pubchem_id": "6729593",
+   "pert_id": "BRD-K32896438"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "MCF7",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5292,
+   "pubchem_id": "11292680",
+   "pert_id": "BRD-K73395020"
+  },
+  {
+   "pert_desc": "RHODOMYRTOXIN B",
+   "cell_id": "PC3",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5317,
+   "pubchem_id": "3270699",
+   "pert_id": "BRD-A08003242"
+  },
+  {
+   "pert_desc": "Akt inhibitor IV",
+   "cell_id": "HT29",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5333,
+   "pubchem_id": "5719375",
+   "pert_id": "BRD-K28296557"
+  }
+ ]
+}

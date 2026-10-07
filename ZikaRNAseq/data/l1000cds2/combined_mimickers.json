@@ -1,0 +1,107 @@
+{
+ "signature": "combined",
+ "type": "mimickers",
+ "url": "https://maayanlab.cloud/L1000CDS2/#/result/6ac6819dff05f50052ad9882",
+ "top": [
+  {
+   "pert_desc": "PERHEXILINE MALEATE",
+   "cell_id": "HT29",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.4839,
+   "pubchem_id": "5284439",
+   "pert_id": "BRD-A19633847"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "HT29",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.4884,
+   "pubchem_id": "2729027",
+   "pert_id": "BRD-A18763547"
+  },
+  {
+   "pert_desc": "Akt inhibitor IV",
+   "cell_id": "HT29",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.4915,
+   "pubchem_id": "5719375",
+   "pert_id": "BRD-K28296557"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "HCC515",
+   "pert_dose": "40.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.495,
+   "pubchem_id": "24868309",
+   "pert_id": "BRD-K25737009"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "A375",
+   "pert_dose": "11.1",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.4956,
+   "pubchem_id": "227456",
+   "pert_id": "BRD-K19295594"
+  },
+  {
+   "pert_desc": "CGP 71683 hydrochloride",
+   "cell_id": "HCC515",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.4998,
+   "pubchem_id": "5312114",
+   "pert_id": "BRD-K31912990"
+  },
+  {
+   "pert_desc": "Ro 28-1675 ?",
+   "cell_id": "A375",
+   "pert_dose": "160.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5003,
+   "pubchem_id": "9886086",
+   "pert_id": "BRD-K21672174"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "MCF7",
+   "pert_dose": "11.1",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5022,
+   "pubchem_id": "4259181",
+   "pert_id": "BRD-K17140735"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "MCF7",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5024,
+   "pubchem_id": "9957280",
+   "pert_id": "BRD-K78122587"
+  },
+  {
+   "pert_desc": "Chemistry 2804",
+   "cell_id": "MCF7",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5027,
+   "pubchem_id": "6477762",
+   "pert_id": "BRD-K74402642"
+  }
+ ]
+}

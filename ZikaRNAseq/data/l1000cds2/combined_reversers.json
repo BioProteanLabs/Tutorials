@@ -1,0 +1,107 @@
+{
+ "signature": "combined",
+ "type": "reversers",
+ "url": "https://maayanlab.cloud/L1000CDS2/#/result/6ac681a7ff05f50052ad9884",
+ "top": [
+  {
+   "pert_desc": "-666",
+   "cell_id": "ASC",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.27,
+   "pubchem_id": "73707398",
+   "pert_id": "BRD-K83336168"
+  },
+  {
+   "pert_desc": "am 404",
+   "cell_id": "VCAP",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.2633,
+   "pubchem_id": "6604822",
+   "pert_id": "BRD-K55462201"
+  },
+  {
+   "pert_desc": "nifedipine",
+   "cell_id": "VCAP",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.2573,
+   "pubchem_id": "4485",
+   "pert_id": "BRD-A30977374"
+  },
+  {
+   "pert_desc": "CGP-60474",
+   "cell_id": "HME1",
+   "pert_dose": 0.12,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2539,
+   "pubchem_id": "644215",
+   "pert_id": "BRD-K79090631"
+  },
+  {
+   "pert_desc": "6-methoxy-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-1-one KLK-1",
+   "cell_id": "VCAP",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.2534,
+   "pubchem_id": "87372",
+   "pert_id": "BRD-K43913647"
+  },
+  {
+   "pert_desc": "NCGC00012272-02",
+   "cell_id": "VCAP",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.2524,
+   "pubchem_id": "3234850",
+   "pert_id": "BRD-K07668032"
+  },
+  {
+   "pert_desc": "AT-7519",
+   "cell_id": "HME1",
+   "pert_dose": 1.11,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2441,
+   "pubchem_id": "11338033",
+   "pert_id": "BRD-K13390322"
+  },
+  {
+   "pert_desc": "dasatinib",
+   "cell_id": "HA1E",
+   "pert_dose": 0.12,
+   "pert_dose_unit": "um",
+   "pert_time": 24,
+   "score": 1.2413,
+   "pubchem_id": "3062316",
+   "pert_id": "BRD-K49328571"
+  },
+  {
+   "pert_desc": "dasatinib",
+   "cell_id": "HA1E",
+   "pert_dose": 0.12,
+   "pert_dose_unit": "um",
+   "pert_time": 24,
+   "score": 1.2384,
+   "pubchem_id": "3062316",
+   "pert_id": "BRD-K49328571"
+  },
+  {
+   "pert_desc": "PF-562271",
+   "cell_id": "HME1",
+   "pert_dose": 10,
+   "pert_dose_unit": "um",
+   "pert_time": 3,
+   "score": 1.2369,
+   "pubchem_id": "11713159",
+   "pert_id": "BRD-K99545815"
+  }
+ ]
+}

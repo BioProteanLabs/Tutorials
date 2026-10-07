@@ -1,0 +1,107 @@
+{
+ "signature": "NextSeq 500",
+ "type": "mimickers",
+ "url": "https://maayanlab.cloud/L1000CDS2/#/result/6ac6818bff05f50052ad987e",
+ "top": [
+  {
+   "pert_desc": "Puromycin dihydrochloride",
+   "cell_id": "PC3",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5247,
+   "pubchem_id": "23618032",
+   "pert_id": "BRD-K36007650"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "MCF7",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5389,
+   "pubchem_id": "9957280",
+   "pert_id": "BRD-K78122587"
+  },
+  {
+   "pert_desc": "PUROMYCIN HYDROCHLORIDE",
+   "cell_id": "PC3",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.55,
+   "pubchem_id": "5702164",
+   "pert_id": "BRD-A28970875"
+  },
+  {
+   "pert_desc": "Thiostrepton",
+   "cell_id": "MCF7",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5522,
+   "pubchem_id": "73707520",
+   "pert_id": "BRD-A52627843"
+  },
+  {
+   "pert_desc": "Akt inhibitor IV",
+   "cell_id": "HT29",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5577,
+   "pubchem_id": "5719375",
+   "pert_id": "BRD-K28296557"
+  },
+  {
+   "pert_desc": "manumycin A",
+   "cell_id": "PC3",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5624,
+   "pubchem_id": "44483259",
+   "pert_id": "BRD-K78599730"
+  },
+  {
+   "pert_desc": "Puromycin dihydrochloride",
+   "cell_id": "HCC515",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5634,
+   "pubchem_id": "23618032",
+   "pert_id": "BRD-K36007650"
+  },
+  {
+   "pert_desc": "PERHEXILINE MALEATE",
+   "cell_id": "HT29",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5637,
+   "pubchem_id": "5284439",
+   "pert_id": "BRD-A19633847"
+  },
+  {
+   "pert_desc": "curcubitacin I",
+   "cell_id": "A375",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5657,
+   "pubchem_id": "73707401",
+   "pert_id": "BRD-A28105619"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "MCF7",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 0.5662,
+   "pubchem_id": "11292680",
+   "pert_id": "BRD-K73395020"
+  }
+ ]
+}

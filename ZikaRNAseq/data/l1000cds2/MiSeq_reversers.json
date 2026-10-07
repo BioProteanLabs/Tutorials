@@ -1,0 +1,107 @@
+{
+ "signature": "MiSeq",
+ "type": "reversers",
+ "url": "https://maayanlab.cloud/L1000CDS2/#/result/6ac68181ff05f50052ad987c",
+ "top": [
+  {
+   "pert_desc": "nifedipine",
+   "cell_id": "VCAP",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.2716,
+   "pubchem_id": "4485",
+   "pert_id": "BRD-A30977374"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "SKB",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.2554,
+   "pubchem_id": "30323",
+   "pert_id": "BRD-K43389675"
+  },
+  {
+   "pert_desc": "NCGC00012272-02",
+   "cell_id": "VCAP",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.2455,
+   "pubchem_id": "3234850",
+   "pert_id": "BRD-K07668032"
+  },
+  {
+   "pert_desc": "6-methoxy-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-1-one KLK-1",
+   "cell_id": "VCAP",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.2312,
+   "pubchem_id": "87372",
+   "pert_id": "BRD-K43913647"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "SKB",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.2297,
+   "pubchem_id": "9799509",
+   "pert_id": "BRD-K11927976"
+  },
+  {
+   "pert_desc": "HY-50940",
+   "cell_id": "SKB",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.229,
+   "pubchem_id": "11338033",
+   "pert_id": "BRD-K13390322"
+  },
+  {
+   "pert_desc": "DAUNORUBICIN",
+   "cell_id": "HCC515",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "6.0",
+   "score": 1.2175,
+   "pubchem_id": "30323",
+   "pert_id": "BRD-K43389675"
+  },
+  {
+   "pert_desc": "-666",
+   "cell_id": "SKB",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "24.0",
+   "score": 1.2167,
+   "pubchem_id": "65348",
+   "pert_id": "BRD-K04548931"
+  },
+  {
+   "pert_desc": "dasatinib",
+   "cell_id": "HA1E",
+   "pert_dose": 0.37,
+   "pert_dose_unit": "um",
+   "pert_time": 24,
+   "score": 1.214,
+   "pubchem_id": "3062316",
+   "pert_id": "BRD-K49328571"
+  },
+  {
+   "pert_desc": "NCGC00182110-02",
+   "cell_id": "VCAP",
+   "pert_dose": "10.0",
+   "pert_dose_unit": "um",
+   "pert_time": "6.0",
+   "score": 1.2137,
+   "pubchem_id": "44143091",
+   "pert_id": "BRD-K95789946"
+  }
+ ]
+}
